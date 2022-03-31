@@ -3,7 +3,7 @@
 int main()
 {
 	int i = 0, j = 0;
-	int sum = 0;   //변수를 초기화 이유는,.,>?
+	int sum = 0;   //변수를 초기화 이유는,.,>? !!!
 
 	printf("Input Two integers\n");
 
